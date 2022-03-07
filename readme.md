@@ -1,7 +1,7 @@
 ## coleções em dart:page_with_curl:
 
---indice e tamanho de array
---map (matriz)
---Queue (fila)
---listas (array)
---vetor e matriz
+*ndice e tamanho de array
+*map (matriz)
+*ueue (fila)
+*istas (array)
+*etor e matriz
